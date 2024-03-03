@@ -8,7 +8,6 @@ def pal(text):
             pal(text[1:-1])
         else:
             print("Not a palindrome")
-
 pal("madam")
 pal("python")
 pal("abba")
